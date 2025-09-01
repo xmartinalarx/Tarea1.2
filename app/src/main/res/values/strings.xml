@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea1.2</string>
+    <string name="MensajeEnvio">Enviar Datos Atravez de intents</string>
+    <string name="BotonEnvio">Enviar Datos</string>
+    <string name="InputDatos">Escribe Aqui </string>
+    // Activity 2
+    <string name="MensajeRecibido">Datos Recibido Exitosamente</string>
+
+</resources>
