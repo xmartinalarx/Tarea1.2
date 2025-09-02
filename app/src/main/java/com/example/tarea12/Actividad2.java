@@ -24,10 +24,10 @@ public class Actividad2 extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
-        // 🔹 Recuperar el Intent y extraer el dato enviado desde MainActivity
-        String mensaje = getIntent().getStringExtra("mensaje");
+        // Recuperar el Intent y extraer el dato enviado desde MainActivity
+                String mensaje = getIntent().getStringExtra("mensaje");
 
-        // 🔹 Mostrarlo en un TextView
+        // Mostrarlo en un TextView
         TextView texto = findViewById(R.id.textoMensaje);
         texto.setText(mensaje);
     }
