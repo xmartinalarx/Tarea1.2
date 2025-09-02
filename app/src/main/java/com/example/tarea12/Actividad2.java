@@ -11,7 +11,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 // Martin Alarcon, Martin Araya, Julian Ojeda
-
+//prueba
 public class Actividad2 extends AppCompatActivity {
 
     @Override
